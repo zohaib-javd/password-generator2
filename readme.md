@@ -30,7 +30,7 @@ A powerful and user-friendly password & passphrase generator built with **Stream
 
 ## 🌐 Live Demo
 
-🔗 **Try it out:** [Live App Link](https://password-generator2.streamlit.app/) *(Replace with actual deployed link)*  
+🔗 **Try it out:** [Live App Link](https://password-generator2.streamlit.app/) 
 
 ---
 
